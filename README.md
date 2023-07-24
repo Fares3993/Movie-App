@@ -8,16 +8,31 @@
 <img src ="https://github.com/Fares3993/Movie-App/assets/84674642/3a7983b0-fdd9-497e-9bcb-a9808cb28762"  width = 250 height =450>
 </div>
 
+<div>
+  <img src =""  width = 250 height =450>
+<img src =""  width = 250 height =450>
+</div>
+<div>
+  <img src ="" width = 250 height =450>
+<img src ="" width = 250 height =450>
+</div>
+<div>
+  <img src ="" width = 250 height =450>
+<img src ="" width = 250 height =450>
+</div>
+<div>
+  <img src ="" width = 250 height =450>
+<img src ="" width = 250 height =450>
+</div>
+<div>
+  <img src ="" width = 250 height =450>
+<img src ="" width = 250 height =450>
+</div>
 
-<img src =""  width = 250 height =450>
-<img src =""  width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
-<img src ="" width = 250 height =450>
+
+
+
+
+
 <img src ="" width = 250 height =450>
 <img src ="" width = 250 height =450>
