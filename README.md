@@ -28,13 +28,13 @@
   <img src ="https://github.com/Fares3993/Movie-App/assets/84674642/14d175c9-37f1-4247-8349-144b10b78fcc" width = 250 height =450>
   &nbsp;
   &nbsp;
-<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/9ca77259-2d08-41ba-957a-595300fa8f3b" width = 250 height =450>
+<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/3684ce29-c59d-4a5a-87e8-ad52a0eb5a13" width = 250 height =450>
 </div>
 &nbsp;
 <div>
-  <img src ="https://github.com/Fares3993/Movie-App/assets/84674642/3684ce29-c59d-4a5a-87e8-ad52a0eb5a13" width = 250 height =450>
+  <img src ="https://github.com/Fares3993/Movie-App/assets/84674642/e793a9d3-4d19-4469-81c6-31b44e90588d" width = 250 height =450>
   &nbsp;
   &nbsp;
-<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/e793a9d3-4d19-4469-81c6-31b44e90588d" width = 250 height =450>
+<img src ="" width = 250 height =450>
 </div>
 
