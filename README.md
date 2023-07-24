@@ -35,6 +35,6 @@
   <img src ="https://github.com/Fares3993/Movie-App/assets/84674642/e793a9d3-4d19-4469-81c6-31b44e90588d" width = 250 height =450>
   &nbsp;
   &nbsp;
-<img src ="" width = 250 height =450>
+<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/cbc3f2e7-4c03-448c-a093-a920a287a13c" width = 250 height =450>
 </div>
 
