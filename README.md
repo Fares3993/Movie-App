@@ -1,5 +1,5 @@
 # Movie App
-<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/c4e1caf6-7c5e-4b4f-b9ad-fe5f61cfc878">
+<img src ="https://github.com/Fares3993/Movie-App/assets/84674642/9d28fe3c-4d76-4590-a4c6-515d1a6b18e2">
 
 ## Some Screenshots:
 
